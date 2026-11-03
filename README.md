@@ -25,7 +25,7 @@ There is no web API, database, authentication, or UI. External dependencies are 
 ## Solution structure
 
 ```text
-Simulation.Checkout.sln
+Simulation.Checkout.slnx
 ├── src
 │   ├── Simulation.Checkout.Domain          # Entities and exceptions
 │   ├── Simulation.Checkout.Application     # CheckoutService + interfaces
